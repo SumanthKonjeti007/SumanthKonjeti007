@@ -1,57 +1,67 @@
-## 🌟 Sumanth Konjeti  
+## 🌟 Bala Venkata Naga Srinivasa Sumanth Konjeti
 
-> *Bridging Backend Power, AI Intelligence, and Cloud Scalability*
+> Bridging backend power, AI intelligence, and cloud scalability.
 
-I’m a **Full-Stack & AI/ML Engineer** who thrives at the intersection of **Java/Spring Boot enterprise systems**, **Python-driven machine learning pipelines**, and **cloud-native architecture**.  
-From **high-throughput microservices** to **RAG-powered AI platforms**, my work is about turning complex problems into scalable, elegant solutions.
+I’m Sumanth — a **Full-Stack & AI/ML Engineer** (MS CS @ **Indiana University Bloomington**, May ’25).  
+I build **full-circle systems** where a user click flows through **Java/Spring Boot** or **Python/FastAPI** services,
+lands in resilient data stores, powers **RAG/ML pipelines**, and returns as **real-time insight** on the frontend.
 
----
-
-### 🔭 What I’m Building Right Now
-- **AI Buddy** – An AI-powered study companion & mock interview simulator  
-  *LangChain · AWS Fargate · FastAPI · GraphQL · Multi-Agent Systems*  
-- **GenAI Financial Analyst** – RAG-driven financial document intelligence  
-  *Spring Boot · Spring AI · PGVector · OpenAI API*
+![Profile Views](https://komarev.com/ghpvc/?username=SumanthKonjeti007&style=flat)
+![Followers](https://img.shields.io/github/followers/SumanthKonjeti007?label=Followers&style=flat)
+![Stars](https://img.shields.io/github/stars/SumanthKonjeti007?label=Repo%20Stars&style=flat)
 
 ---
 
-### 🛠 My Engineering Stack
-- **Languages:** Java, Python, C++, TypeScript, SQL, Bash  
-- **Backend:** Spring Boot, Django, FastAPI, Kafka, REST, GraphQL  
-- **AI/ML:** LangChain, LangGraph, PyTorch, SageMaker, Hugging Face, RAG Systems  
-- **Cloud & DevOps:** AWS (Certified), GCP, Docker, Kubernetes, CI/CD, Redis, BigQuery, ELK Stack  
-- **Frontend:** React, Redux, Angular, Vue.js
+### 🔭 Now
+- **AI Buddy** — AI study companion & mock-interview simulator  
+  _LangChain · AWS Fargate · FastAPI · GraphQL · Multi-Agent_
+- **GenAI Financial Analyst** — RAG for financial documents  
+  _Spring Boot · Spring AI · PGVector · OpenAI_  
+  Repo: **[GenAI-Financial-Analyst](https://github.com/SumanthKonjeti007/GenAI-Financial-Analyst)**
 
 ---
 
-### 📜 Experience Highlights
-- **MyEdMaster – Software Engineer Intern**  
-  Designed **serverless ML inference APIs** (AWS Lambda + API Gateway), deployed Dockerized ML models on SageMaker (↓ latency by 50%), and built a **unit normalization layer** improving backend reliability by 20%.
-  
-- **[24]7.ai – Software Development Engineer I**  
-  Engineered **Kafka-based schedulers** (+30% delivery rate), integrated ELK for **cross-service observability** (↓ MTTD by 60%), and led **performance stress simulations** for GCP migration of enterprise clients like Best Buy.
+### 🧱 Previously
+- **MyEdMaster (Intern)**: Serverless ML inference (**SageMaker, Lambda, API GW**) · −50% latency · unit normalization layer (+20% reliability)  
+- **[24]7.ai (SDE I)**: Kafka schedulers (+30% delivery), **ELK on GCP** (−60% MTTD), led **PSR** for BestBuy/CapitalOne migration  
+- **Research (IU)**: Motion analysis & image registration on HPC; scalable data/ML pipelines
 
 ---
 
-### 🎓 Education
-🎓 **M.S. Computer Science** – Indiana University Bloomington *(3.84/4)*  
-🎓 **B.Tech Computer Science & Engineering** – Amrita Vishwa Vidyapeetham *(8.17/10)*  
+### 🧰 Toolbelt
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?logo=django&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?logo=chainlink&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-1a73e8?logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-1a73e8?logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 ---
 
-### 📈 Beyond the Code
-- I architect systems like they’re **stories** — every module a character, every integration a plot twist.
-- I enjoy making **data talk** — whether through dashboards, models, or APIs.
-- Always experimenting with **AI agents**, **knowledge graphs**, and **distributed system design**.
+### 📊 Quick Stats
+<img src="https://github-readme-stats.vercel.app/api?username=SumanthKonjeti007&show_icons=true&hide_title=true" height="145">
+<img src="https://streak-stats.demolab.com?user=SumanthKonjeti007&hide_border=true" height="145">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthKonjeti007&layout=compact&hide_title=true" height="145">
 
 ---
 
-### 📬 Let’s Connect
-📧 **Email:** bala.sumanthkonjeti05@gmail.com  
-🌐 **Portfolio:** [sumanth-konjeti.vercel.app](https://sumanth-konjeti.vercel.app)  
-💼 **LinkedIn:** [Sumanth Konjeti](https://www.linkedin.com/in/sumanth-konjeti)  
-💻 **GitHub:** [SumanthKonjeti007](https://github.com/SumanthKonjeti007)  
+### 🔗 Links
+- 🌐 **Portfolio:** [sumanth-konjeti.vercel.app](https://sumanth-konjeti.vercel.app)
+- 💼 **LinkedIn:** [/in/sumanth-konjeti](https://www.linkedin.com/in/sumanth-konjeti)
+- ✉️ **Email:** [bala.sumanthkonjeti05@gmail.com](mailto:bala.sumanthkonjeti05@gmail.com)
 
 ---
 
-> 🧩 **Motto:** *"Code is just syntax; architecture is where the story lives."*
+#### Operating principles
+**Observe > Guess • Idempotent by default • Ship small, learn fast**

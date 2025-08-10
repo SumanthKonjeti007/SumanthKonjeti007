@@ -49,10 +49,7 @@ lands in resilient data stores, powers **RAG/ML pipelines**, and returns as **re
 
 ---
 
-### 📊 Quick Stats
-<img src="https://github-readme-stats.vercel.app/api?username=SumanthKonjeti007&show_icons=true&hide_title=true" height="145">
-<img src="https://streak-stats.demolab.com?user=SumanthKonjeti007&hide_border=true" height="145">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthKonjeti007&layout=compact&hide_title=true" height="145">
+
 
 ---
 

@@ -49,10 +49,6 @@ lands in resilient data stores, powers **RAG/ML pipelines**, and returns as **re
 
 ---
 
-
-
----
-
 ### 🔗 Links
 - 🌐 **Portfolio:** [sumanth-konjeti.vercel.app](https://sumanth-konjeti.vercel.app)
 - 💼 **LinkedIn:** [/in/sumanth-konjeti](https://www.linkedin.com/in/sumanth-konjeti)

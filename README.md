@@ -1,8 +1,8 @@
 ## 🌟 Bala Venkata Naga Srinivasa Sumanth Konjeti
 
-> Polyglot Systems Engineer | Modernizing Architectures | Distributed Systems Specialist
+> Polyglot Engineer | Modernizing Architectures | Distributed Systems Specialist
 
-I’m Sumanth — a **Polyglot Systems Engineer** (MS CS @ **Indiana University Bloomington**, May ’25).  
+I’m Sumanth — a **Polyglot Engineer** (MS CS @ **Indiana University Bloomington**, May ’25).  
 I bridge the gap between **legacy stability** and **modern scalability**. My work focuses on modernizing monoliths to **event-driven microservices** (Go/PHP), optimizing **low-latency compute** (C++), and building **fault-tolerant financial systems**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SumanthKonjeti007&style=flat)
@@ -15,7 +15,6 @@ I bridge the gap between **legacy stability** and **modern scalability**. My wor
 - **Heartland Community Network (Current Role)**: Leading a legacy **PHP-to-Go** migration on Kubernetes, optimizing for transactional integrity and 50k+ users.
 - **GenAI Financial Analyst** — Secure financial data processing backend  
   _Go (Golang) · PostgreSQL · Docker · Financial Data Integrity_  
-  Repo: **[GenAI-Financial-Analyst](https://github.com/SumanthKonjeti007/GenAI-Financial-Analyst)**
 - **AI Buddy** — AI study companion & mock-interview simulator  
   _LangChain · AWS Fargate · FastAPI · GraphQL_
 
